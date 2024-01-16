@@ -1,0 +1,54 @@
+.weather-header{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%) !important;
+}
+
+#form-heading{
+    font-size: 30px;
+    font-weight: 700;
+    padding: 12px 0;
+}
+#search-input{
+    width: 300px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    padding: 5px;
+    height: 42px;
+}
+
+.input-group .btn{
+    width: 300px;
+    background-color:rgb(9,9,121,1) ;
+    border-radius: 5px;
+    padding: 5px;
+    height: 42px;
+    margin:1em 0;
+    color: #fff;
+}
+a.list-group-item.list-group-item-action{
+    color:#333;
+    background: #eee;
+    width: 300px;
+    margin-top:1em;
+
+}
+.current-weather{
+    border: 1px solid #333;
+    padding: 12px;
+    border-radius: 5px;
+   
+}
+.forecast-item{
+    background: rgb(2,0,36);
+    border-radius: 5px;
+    color: #fff;
+    margin: 12px;
+    font-size: 12px;
+   
+}
+ h3{
+    font-size: 12px;
+    padding: 5px 0;
+
+    }
+   
